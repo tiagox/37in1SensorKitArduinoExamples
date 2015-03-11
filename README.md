@@ -1,1 +1,1 @@
-# 37in1SensorKitArduinoExamples
+# 37 in 1 Sensor Kit Arduino Examples
